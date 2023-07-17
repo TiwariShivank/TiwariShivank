@@ -1,8 +1,8 @@
 # Hi, I'm Shivank Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[<img align="left" alt="shivanktiwary | LinkedIn" width="22px" src="[./linkedin.svg](https://giphy.com/linkedin)" />][linkedin]
-[<img align="left" alt="tiwarishivank35 | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[Linkedin]   <br>
+[Gmail]
 
 <br>
 <br>
@@ -30,11 +30,8 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 #### Languages:
 
-![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java]
+![SQL]
 
 #### Application and Data:
 
