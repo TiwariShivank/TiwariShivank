@@ -30,8 +30,8 @@ I've always been a person that if I didn't know how to make something      🔎 
 
 #### Languages:
 
-![Java]
-![SQL]
+[Java]
+[SQL]
 
 #### Application and Data:
 
