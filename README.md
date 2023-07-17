@@ -2,7 +2,7 @@
 
 
 [<img align="left" alt="shivanktiwary | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="tiwarishivank35 | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 <br>
 <br>
